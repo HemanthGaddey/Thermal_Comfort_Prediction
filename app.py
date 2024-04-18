@@ -87,3 +87,9 @@ prediction_ts, prediction_tc = make_prediction(input_data)
 
 st.write('Predicted thermal sensation:', prediction_ts)
 st.write('Predicted thermal comfort:', prediction_tc)
+
+st.write('''The following scale has been used according to ASHRAE Standards.
+
+Thermal Sensation Scale:  -3(Very Cold) to +3(Very Hot)
+
+Thermal Comfort Scale: 1(Very Uncomfortable) to 6(very comfortable)''')
