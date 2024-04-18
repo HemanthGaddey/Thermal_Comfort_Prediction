@@ -203,7 +203,6 @@ python-dotenv==1.0.0
 python-json-logger==2.0.4
 python-multipart==0.0.6
 python-slugify==7.0.0
-pytz==2022.7
 pywin32==305
 pywin32-ctypes==0.2.0
 pywinpty==2.0.9
